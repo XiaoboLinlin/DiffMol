@@ -1,0 +1,9 @@
+# sampling:
+#   ave_checkpoint_dir: /home/xiaobo/project/diffusion/DiffMol/runs/AVE/version_3/checkpoints/config.io.name=0_epoch=199.ckpt
+#   diff_checkpoint_dir: /home/xiaobo/project/diffusion/DiffMol/runs/latent_diff_train/version_6/checkpoints/config.io.name=0_epoch=999.ckpt
+
+sampling:
+  ave_checkpoint_dir: /home/xiaobo/project/diffusion/DiffMol/runs/AVE/version_3/checkpoints/config.io.name=0_epoch=199.ckpt
+  diff_checkpoint_dir: /home/xiaobo/project/diffusion/DiffMol/runs/latent_diff_train_test/version_10/checkpoints/config.io.name=0_epoch=49.ckpt
+  noise_scale: 0.1
+  

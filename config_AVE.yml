@@ -1,0 +1,8 @@
+# For full name, please see util.config
+io:
+  name: AVE
+training:
+  n_epoch: 2000  # 'numEpoches'
+  batch_size: 10
+  
+

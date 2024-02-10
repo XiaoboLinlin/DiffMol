@@ -1,0 +1,9 @@
+# For full name, please see util.config
+io:
+  name: latent_diff_train_test
+training:
+  n_epoch: 50000  # 'numEpoches'
+  batch_size: 64
+  checkpoint_every_n_epoch: 50
+  
+
